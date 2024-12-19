@@ -1,7 +1,0 @@
-C:\Users\Mario\OneDrive\Escritorio\VendingMachine\VendingMachine\bin\Debug\VendingMachine.exe.config
-C:\Users\Mario\OneDrive\Escritorio\VendingMachine\VendingMachine\bin\Debug\VendingMachine.exe
-C:\Users\Mario\OneDrive\Escritorio\VendingMachine\VendingMachine\bin\Debug\VendingMachine.pdb
-C:\Users\Mario\OneDrive\Escritorio\VendingMachine\VendingMachine\obj\Debug\VendingMachine.csproj.AssemblyReference.cache
-C:\Users\Mario\OneDrive\Escritorio\VendingMachine\VendingMachine\obj\Debug\VendingMachine.csproj.CoreCompileInputs.cache
-C:\Users\Mario\OneDrive\Escritorio\VendingMachine\VendingMachine\obj\Debug\VendingMachine.exe
-C:\Users\Mario\OneDrive\Escritorio\VendingMachine\VendingMachine\obj\Debug\VendingMachine.pdb
