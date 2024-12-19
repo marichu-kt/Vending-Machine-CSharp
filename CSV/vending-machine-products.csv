@@ -1,0 +1,13 @@
+1|Refrescos|Productos Alimenticios|Coca-Cola|20|1.50|Azúcar, cafeína, agua carbonatada
+2|Refrescos|Productos Alimenticios|Pepsi|18|1.40|Azúcar, cafeína, agua carbonatada
+3|Refrescos|Productos Alimenticios|Sprite|15|1.45|Agua carbonatada, azúcar, limón
+4|Papas fritas|Productos Alimenticios|Snacks salados|25|1.20|Papas, sal, aceite
+5|Doritos|Productos Alimenticios|Snacks salados|22|1.30|Maíz, aceite, sal
+6|Kit Kat|Productos Alimenticios|Chocolates|30|1.00|Chocolate, galleta
+7|Snickers|Productos Alimenticios|Chocolates|28|1.10|Cacahuate, caramelo, chocolate
+8|Teléfono móvil|Productos Electrónicos|Electrónicos|10|200.00|Plástico|true|false
+9|Smartwatch|Productos Electrónicos|Electrónicos|15|150.00|Metal|true|true
+10|Laptop|Productos Electrónicos|Electrónicos|5|800.00|Metal|true|false
+11|Oro|Materiales Preciosos|Metales|2|1500.00|Oro|5.0
+12|Plata|Materiales Preciosos|Metales|5|50.00|Plata|10.0
+13|Diamante|Materiales Preciosos|Gemas|1|3000.00|Diamante|0.5
